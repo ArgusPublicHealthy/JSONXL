@@ -40,8 +40,8 @@ def send_weather_alert():
     wb.save("FrostAlert.xlsx")
 
     if current_weather.lower() == 'clouds' and 'few clouds' in weather_description.lower():
-        username = 'zubairanwarrr@outlook.com'
-        password = 'Azaan12$'
+        username = 'z**********@outlook.com'
+        password = '*******'
         smtp_server = 'smtp-mail.outlook.com'
         smtp_port = 587
 
